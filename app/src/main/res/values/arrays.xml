@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_group_options">
+        <item>@string/group_no_group</item>
+        <item>@string/group_favorites</item>
+    </string-array>
+</resources>

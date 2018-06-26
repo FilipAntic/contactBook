@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/add_favourite"
+        android:orderInCategory="100"
+        android:title="Brisi" />
+
+    <item
+        android:id="@+id/detail_employe"
+        android:orderInCategory="101"
+        android:title="Info" />
+</menu>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactBook</string>
+
+    <string name="action_insert_data">Insert Data</string>
+
+    <string name="action_delete_all_entries">Delete All Contacts</string>
+
+    <string name="empty_view_title_text">No Contacts</string>
+
+    <string name="empty_view_subtitle_text">Get started by adding a contact</string>
+
+    <string name="editor_activity_title_new_contact">Add a Contact</string>
+
+    <string name="editor_activity_title_edit_contact">Edit Contact</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="editor_insert_contact_successful">Contact saved</string>
+
+    <string name="editor_insert_contact_failed">Error with saving contact</string>
+
+    <string name="editor_update_contact_successful">Contact updated</string>
+
+    <string name="editor_update_contact_failed">Error with updating contact</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_contact_successful">Contact deleted</string>
+
+    <string name="editor_delete_contact_failed">Error with deleting contact</string>
+
+    <string name="delete_dialog_msg">Delete this contact?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="category_group">Group</string>
+
+    <string name="category_number">Phone number</string>
+
+    <string name="hint_contact_name">Name</string>
+
+    <string name="contact_company">Company</string>
+
+    <string name="hint_contact_number">Phone number</string>
+
+    <string name="group_no_group">No group</string>
+
+    <string name="group_favorites">Favorites</string>
+
+    <string name="no_company">No company</string>
+
+    <string name="intro_message">Intro message</string>
+
+    <string name="request_permission">Request permission</string>
+
+    <string name="camera_error">Camera error</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
